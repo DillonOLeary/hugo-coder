@@ -1,6 +1,6 @@
 baseurl = "https://dillonoleary.com/"
 title = "dillonoleary"
-theme = "coder"
+theme = ["hugo-cloak-email", "coder"]
 languagecode = "en"
 defaultcontentlanguage = "en"
 
